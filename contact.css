@@ -1,0 +1,66 @@
+form{
+    height: 400px;
+    width: 700px;
+    
+}
+
+label{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+pre label{
+    margin-left: 0px;
+}
+input{
+    margin-left: 100px;
+    width: 500px;
+    border-radius: 5px;
+    border: 1px solid rgb(144, 142, 142);
+    
+}
+pre input{
+    margin-left: 0px;
+    width: 240px;
+}
+pre{
+    
+    position: relative;
+    top: 40px;
+}
+textarea{
+    margin-left: 100px;
+    width: 500px;
+    height: 150px;
+    border-radius: 5px;
+    border: 1px solid rgb(144, 142, 142);
+    
+}
+.btn{
+    height: 50px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left: 100px;
+    background-color: rgb(42, 164, 191);
+    color: white;
+    font-weight: bold;
+    transition: transform 0.5s;
+    
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+
+.contact h1{
+    float: right;
+    margin-right: 350px;
+    margin-top: 50px;
+    color:rgb(108, 103, 103);
+}
+.contact p{
+    margin-left: 200px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
