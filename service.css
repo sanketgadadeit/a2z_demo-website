@@ -1,0 +1,44 @@
+.service1 img{
+    opacity: 0.2;
+}
+
+.service1 h1{
+   
+   
+    transform: rotate(270deg);
+    font-size: 150px;
+    color: white;
+    position: absolute;
+    top:460px;
+    left: 0px;
+    font-weight: bold;
+}
+.service2{
+    color: white;
+    position: absolute;
+    top: 120px;
+    left: 200px;
+}
+.service2 h3{
+    font-size: 20px;
+}
+.service2 p{
+    font-size: 17px;
+}
+.service2 .col-8 div{
+    height: 160px;
+    width: 760px;
+    background-color: rgba(7, 137, 166, 0.682);
+    padding: 20px;
+    margin: 15px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+
+.service3 h1{
+    color: rgba(7, 137, 166);
+    text-align: center;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 20px;
+}
